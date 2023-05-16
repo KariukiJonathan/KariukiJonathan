@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **JonathanSecondGithub/JonathanSecondGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am Jonathan Kariuki ♨
+- 🔭 I’m currently working on ALX Software Engineer Program
+- 🌱 I’m currently learning python and backend development
+- 📫 How to reach me: jonamkariuki@gmail.com

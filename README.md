@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ALX Software Engineer Program
 - 🌱 I’m currently learning python and backend development
 - 📫 How to reach me: jonamkariuki@gmail.com
+- ⚡ Check out my other github as well : https://github.com/KariukiJonathan

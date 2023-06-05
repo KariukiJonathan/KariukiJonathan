@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - I am Jonathan Kariuki ♨
 - 🔭 I’m currently working on ALX Software Engineer Program
+- 🔭 I’m also currntly a student at the university doing information technology
 - 🌱 I’m currently learning python and backend development
 - 📫 How to reach me: jonamkariuki@gmail.com
 - ⚡ Check out my other github as well : https://github.com/KariukiJonathan

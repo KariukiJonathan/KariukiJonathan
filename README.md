@@ -21,3 +21,25 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python and backend development
 - 📫 How to reach me: jonamkariuki@gmail.com
 - ⚡ Check out my other github as well : https://github.com/KariukiJonathan
+
+
+Skills:
+C++
+C
+Python
+Javascript
+HTML
+CSS
+Java
+MySQL
+sqlite
+SQLAlchemy
+Shell
+Kubeernates
+Docker
+
+Tools I have experience with:
+Android Studio
+Visual Studio Code
+Linux
+Xaamp

@@ -43,6 +43,7 @@ I also have profeciency in:
 - Docker
 - Networking priciples
 - Machine learning and AI in python
+- Common CI/CD principles
 
 Tools I have experience with include:
 - Git

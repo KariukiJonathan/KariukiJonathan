@@ -15,31 +15,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am Jonathan Kariuki ♨
+- My name is Jonathan Kariuki ♨
+- ☁ I love the cloud and software development
 - 🔭 I’m currently working on ALX Software Engineer Program
-- 🔭 I’m also currently a student at the university doing information technology
 - 🌱 I’m currently learning python and backend development
+- 🔭 I’m also currently a student at the university doing information technology
+- 😄 I aslo work with cloud platforms and I am currently working on a cloud engineer path
 - 📫 How to reach me: jonamkariuki@gmail.com
 - ⚡ Check out my other github as well : https://github.com/KariukiJonathan
 
 
-Skills:
-C++
-C
-Python
-Javascript
-HTML
-CSS
-Java
-MySQL
-sqlite
-SQLAlchemy
-Shell
-Kubeernates
-Docker
+I am experienced in working with languages like:
+-C++
+-C
+-Python
+-Javascript
+-HTML
+-CSS
+-Java
 
-Tools I have experience with:
-Android Studio
-Visual Studio Code
-Linux
-Xaamp
+I also have profeciency in:
+-MySQL
+-sqlite
+-SQLAlchemy
+-Shell
+-Kubeernates
+-Docker
+-Networking priciples
+
+Tools I have experience with include:
+-Android Studio
+-Visual Studio Code
+-Linux
+-Xaamp
+
+I have also worked with:
+-IBM Cloud
+-Google cloud platform
+-AWS cloud

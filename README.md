@@ -44,6 +44,7 @@ I also have profeciency in:
 - Networking priciples
 
 Tools I have experience with include:
+- Git
 - Android Studio
 - Visual Studio Code
 - Linux

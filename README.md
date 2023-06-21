@@ -42,6 +42,7 @@ I also have profeciency in:
 - Kubeernates
 - Docker
 - Networking priciples
+- Machine learning and AI in python
 
 Tools I have experience with include:
 - Git

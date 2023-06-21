@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 
 I am experienced in working with languages like:
--C++
--C
--Python
--Javascript
--HTML
--CSS
--Java
+- C++
+- C
+- Python
+- Javascript
+- HTML
+- CSS
+- Java
 
 I also have profeciency in:
 - MySQL 

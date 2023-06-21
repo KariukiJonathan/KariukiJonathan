@@ -35,21 +35,23 @@ I am experienced in working with languages like:
 -Java
 
 I also have profeciency in:
--MySQL
--sqlite
--SQLAlchemy
--Shell
--Kubeernates
--Docker
--Networking priciples
+- MySQL 
+- sqlite
+- SQLAlchemy
+- Shell
+- Kubeernates
+- Docker
+- Networking priciples
 
 Tools I have experience with include:
--Android Studio
--Visual Studio Code
--Linux
--Xaamp
+- Android Studio
+- Visual Studio Code
+- Linux
+- Xaamp
+- Slack
+- Discord
 
 I have also worked with:
--IBM Cloud
--Google cloud platform
--AWS cloud
+- IBM Cloud
+- Google cloud platform
+- AWS cloud

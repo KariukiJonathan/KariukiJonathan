@@ -58,3 +58,8 @@ I have also worked with:
 - IBM Cloud
 - Google cloud platform
 - AWS cloud
+
+Some of my hobbies in the tech space also include:
+- Animations and 3D modelling in blender
+- Video editing
+- Game development

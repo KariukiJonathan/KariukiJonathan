@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - My name is Jonathan Kariuki ♨
+- Professional Proompter 😅
 - ☁ I love the cloud and software development
 - 🔭 I’m currently working on ALX Software Engineer Program
 - 🌱 I’m currently learning python and backend development

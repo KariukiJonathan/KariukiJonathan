@@ -1,4 +1,4 @@
-### Hello 👋
+### My name is Jonathan Kariuki ♨
 
 <!--
 **JonathanSecondGithub/JonathanSecondGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My name is Jonathan Kariuki ♨
+
 - Professional Proompter 😅
 - ☁ I love the cloud and software development
 - I’m currently working on ALX Software Engineer Program

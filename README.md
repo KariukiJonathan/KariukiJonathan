@@ -54,6 +54,7 @@ Tools I have experience with include:
 - Xaamp
 - Slack
 - Discord
+- Postman
 
 I have also worked with:
 - IBM Cloud

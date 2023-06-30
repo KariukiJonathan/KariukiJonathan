@@ -45,6 +45,7 @@ I also have profeciency in:
 - Networking priciples
 - Machine learning and AI in python
 - Common CI/CD principles
+- Curl
 
 Tools I have experience with include:
 - Git

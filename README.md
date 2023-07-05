@@ -44,7 +44,7 @@ I also have profeciency in:
 - Docker
 - Networking priciples
 - Machine learning and AI in python
-- Common CI/CD principles
+- Common CI/CD principles ie setup and management of an AWS codepipeline
 - Curl
 
 Tools I have experience with include:

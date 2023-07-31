@@ -46,6 +46,7 @@ I also have profeciency in:
 - Machine learning and AI in python
 - Common CI/CD principles ie setup and management of an AWS codepipeline
 - Curl
+- Rethink DB
 
 Tools I have experience with include:
 - Git

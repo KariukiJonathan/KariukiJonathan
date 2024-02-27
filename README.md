@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 - Professional Proompter 😅
 - ☁ I love the cloud and software development
-- I’m currently working on ALX Software Engineer Program
-- I’m currently learning python and backend development
+- Certified ALX Software Engineer
+- I do python and backend development
 - I’m also currently a student at the university doing information technology
-- I aslo work with cloud platforms and I am currently working on a cloud engineer path
+- I also work with cloud platforms and I am currently working on a cloud engineer path
 - 📫 How to reach me: jonamkariuki@gmail.com
 - ⚡ Check out my other github as well : https://github.com/KariukiJonathan
 

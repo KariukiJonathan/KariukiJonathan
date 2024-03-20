@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- Professional Proompter 😅
 - ☁ I love the cloud and software development
+- Currently working on consumerafrica.com
 - Certified ALX Software Engineer
 - I do python and backend development
 - I’m also currently a student at the university doing information technology

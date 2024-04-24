@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 - ☁ I love the cloud and software development
-- Currently working on consumerafrica.com
 - Certified ALX Software Engineer
 - I do python and backend development
 - I’m also currently a student at the university doing information technology
@@ -25,6 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jonamkariuki@gmail.com
 - ⚡ Check out my other github as well : https://github.com/KariukiJonathan
 
+
+Currently working on:
+- consumerafrica.com
+- openmrs communication module
 
 I am experienced in working with languages like:
 - C++

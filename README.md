@@ -72,3 +72,4 @@ Some of my hobbies in the tech space also include:
 - Game development
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSecondGithub)](https://github.com/JonathanSecondGithub/github-readme-stats)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSecondGithub&show_icons=true)

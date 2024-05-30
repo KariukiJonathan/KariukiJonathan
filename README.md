@@ -37,6 +37,7 @@ I am experienced in working with languages like:
 - HTML
 - CSS
 - Java
+- Dart
 
 I also have profeciency in:
 - MySQL 
@@ -50,6 +51,7 @@ I also have profeciency in:
 - Common CI/CD principles ie setup and management of an AWS codepipeline
 - Curl
 - Rethink DB
+- Flutter
 
 Tools I have experience with include:
 - Git
@@ -60,6 +62,7 @@ Tools I have experience with include:
 - Slack
 - Discord
 - Postman
+- Firebase
 
 I have also worked with:
 - IBM Cloud

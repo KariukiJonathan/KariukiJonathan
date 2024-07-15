@@ -74,4 +74,20 @@ Some of my hobbies in the tech space also include:
 - Video editing
 - Game development
 
+Certifications:
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate - Not done
+- C++ Sololearn Certificate
+- Microservices with Istio and IBM Cloud Kubernetes Service
+- IBM Cloud Essentials
+- Red Hat Systems Administration Cerificate
+- ALX Software Engineering Program
+- HCIA
+- Google Cloud Essentials - Not done
+- HCIP - Not done
+- CCNA - Not done
+- CCNP - Not done
+- Asure Fundamentals - Not done
+- Bitdefender - Not Complete
+
+
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSecondGithub&show_icons=true)

@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - I’m also currently a student at the university doing information technology
 - I also work with cloud platforms and I am currently working on a cloud engineer path
 - 📫 How to reach me: jonamkariuki@gmail.com
-- ⚡ Check out my other github as well : https://github.com/KariukiJonathan
 
 
 Currently working on:

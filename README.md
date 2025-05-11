@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 
 Currently working on:
-- consumerafrica.com
-- openmrs communication module
+- learning cuda
+- achieving my AWS Certified Solutions Architect - Professional Certification
 
 I am experienced in working with languages like:
 - C++
